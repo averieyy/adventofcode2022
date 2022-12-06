@@ -54,3 +54,5 @@ for i in moves.split('\n'):
     processedlayout[tostack].extend(claw)
 
 displaylayout()
+
+input("> ")
